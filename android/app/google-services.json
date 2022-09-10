@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944305512903",
+    "project_id": "alteratech-22266",
+    "storage_bucket": "alteratech-22266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944305512903:android:978dc99891bde5d90b39e2",
+        "android_client_info": {
+          "package_name": "com.socitytechnologies.alteratech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944305512903-po2dn4c7mmhdb25g4ir0evvtpuvg2cnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9rXA_zipP-YwpqKu1L56wj_0ECWHon4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944305512903-po2dn4c7mmhdb25g4ir0evvtpuvg2cnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
